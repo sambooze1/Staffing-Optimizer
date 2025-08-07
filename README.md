@@ -1,4 +1,4 @@
-# Line Balancing Optimization Tool (Operator Allocation)
+# Line Balancing Optimization Tool (Gurobi Optimization)
 
 This Gurobi model solves a classic IE problem:  
 **How do you assign a fixed number of operators across sequential workstations with different task times to maximize throughput?**
