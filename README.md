@@ -4,7 +4,9 @@ This Gurobi model solves a classic IE problem:
 **How do you assign a fixed number of operators across sequential workstations with different task times to maximize throughput?**
 
 I developed this tool during my internship to help evaluate staffing plans for a labor-intensive production line with 25 stations.
-This project was built using my **academic Gurobi license**, as MSA did not have one available.  
+
+This project was built using my **academic Gurobi license**, as MSA did not have one available.
+
 By leveraging optimization modeling instead of manual spreadsheets, it replaced hours of Excel guesswork with a mathematically optimal allocation — making staffing recommendations both faster to generate and easier to justify.
 
 ---
