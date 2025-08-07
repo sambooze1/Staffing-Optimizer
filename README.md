@@ -7,6 +7,12 @@ I developed this tool during my internship to help evaluate staffing plans for a
 
 ---
 
+## Key Note
+
+This project was built using my **academic Gurobi license**, as MSA did not have one available.  
+By leveraging optimization modeling instead of manual spreadsheets, it replaced hours of Excel guesswork with a mathematically optimal allocation — making staffing recommendations both faster to generate and easier to justify.
+
+
 ## Problem Setup
 
 Each station has a known average **cycle time** (in minutes). You have a fixed number of operators (ranging from 28 to 34), and need to decide how many to assign to each station.
@@ -61,13 +67,6 @@ Helps answer questions like:
 - No individual operator preferences or skills are enforced.
 - Cycle times are fixed averages.
 - PF&D factor is applied as a flat 28% adjustment.
-
----
-
-## 💡 Key Note
-
-This project was built using my **academic Gurobi license**.  
-It replaced hours of manual Excel guesswork with a mathematically optimal allocation, making staffing recommendations more defensible and faster to generate.
 
 ---
 
