@@ -64,6 +64,12 @@ Helps answer questions like:
 
 ---
 
+## 💡 Key Note
+
+This project was built using my **academic Gurobi license**.  
+It replaced hours of manual Excel guesswork with a mathematically optimal allocation, making staffing recommendations more defensible and faster to generate.
+
+---
 
 # Disclaimer
 
